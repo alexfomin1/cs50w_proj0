@@ -1,0 +1,13 @@
+.search-zone {
+}
+
+.search-bar {
+    max-width: 584px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    max-width: 300px;
+}
